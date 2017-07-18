@@ -47,11 +47,12 @@
 Debug/
 Release/
 Export/
-*/codegentemp
-*/autoseltemp
+Backup/
+codegentemp/
+autoseltemp/
 
 #keep the hex binary for each version
-*/Generated_Source
+Generated_Source/
 !/Generated_Source/*/*.hex
 
 *_datasheet.pdf
